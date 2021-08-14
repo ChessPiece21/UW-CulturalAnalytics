@@ -23,7 +23,8 @@ stopwords = ['i', 'me', 'my', 'myself', 'we', 'our', 'ours', 'ourselves', 'you',
  'in', 'out', 'on', 'off', 'over', 'under', 'again', 'further', 'then', 'once', 'here',
  'there', 'when', 'where', 'why', 'how', 'all', 'any', 'both', 'each', 'few', 'more',
  'most', 'other', 'some', 'such', 'no', 'nor', 'not', 'only', 'own', 'same', 'so',
- 'than', 'too', 'very', 's', 't', 'can', 'will', 'just', 'don', 'should', 'now', 've', 'll', 'amp']
+ 'than', 'too', 'very', 's', 'gutenberg', 'project', 't', 'can', 'will', 'just', 'don', 
+  'should', 'now', 've', 'll', 'amp']
 
 # Read in File
 full_text = open(filepath_of_text, encoding="utf-8").read()
