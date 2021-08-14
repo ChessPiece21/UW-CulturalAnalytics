@@ -35,4 +35,4 @@ meaningful_words_tally = Counter(meaningful_words)
 most_frequent_meaningful_words = meaningful_words_tally.most_common(number_of_desired_words)
 
 # Output Results
-most_frequent_meaningful_words
+print(most_frequent_meaningful_words)
