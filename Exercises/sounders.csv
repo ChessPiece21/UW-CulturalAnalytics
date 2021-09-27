@@ -1,0 +1,29 @@
+﻿Jersey Number,Player Type,Position,First Name,Last Name,Full Name,Age,Height,Category,Nation
+3,Defender,Center Back,Xavier,Arreaga,Xavier Arreaga,26,"6'0""",International,Ecuador
+5,Defender,Left Back,Nouhou,Tolo,Nouhou Tolo,24,"5'9""",International,Nigeria
+6,Midfielder,Center Mid,Joao,Paulo,Joao Paulo,30,"5'7""",International DP,Brazil
+7,Midfielder,Center Mid,Cristian,Roldan,Cristian Roldan,26,"5'8""",Domestic Homegrown,USA
+8,Defender,Right Back,Jordy,Delem,Jordy Delem,27,"5'11""",International,Martinique
+9,Forward,Center Forward,Raul,Ruidiaz,Raul Ruidiaz,31,"5'7""",International DP,Peru
+10,Midfielder,Center Mid,Nicolas,Lodeiro,Nicolas Lodeiro,32,"5'7""",International DP,Uruguay
+11,Defender,Left Back,Brad,Smith,Brad Smith,27,"5'10""",International,Australia
+12,Forward,Center Forward,Fredy,Montero,Fredy Montero,34,"5'9""",International,Colombia
+13,Forward,Right Winger,Jordan,Morris,Jordan Morris,26,"6'2""",Domestic Homegrown,USA
+16,Midfielder,Left Mid,Alex,Roldan,Alex Roldan,23,"5'9""",Domestic Homegrown,USA
+17,Forward,Center Forward,Will,Bruin,Will Bruin,30,"6'2""",Domestic,USA
+18,Goalkeeper,Goalkeeper,Spencer,Richey,Spencer Richey,28,"6'3""",Domestic Homegrown,USA
+20,Midfielder,Center Mid,Nicolas,Benezet,Nicolas Benezet,30,"5'8""",International,Canada
+21,Midfielder,Center Mid,Reed,Baker-Whiting,Reed Baker-Whiting,17,"5'10""",Domestic Homegrown,USA
+22,Midfielder,Center Mid,Kelyn Rowe,Rowe,Kelyn Rowe,28,"5'9""",Domestic Homegrown,USA
+23,Forward,Right Winger,Leo,Chu,Leo Chu,21,"5'10""",International,Brazil
+24,Goalkeeper,Goalkeeper,Stefan,Frei,Stefan Frei,35,"6'3""",International,Switzerland
+26,Goalkeeper,Goalkeeper,Andrew,Thomas,Andrew Thomas,22,"6'3""",Domestic,USA
+27,Defender,Center Back,Shane,O'Neill,Shane O'Neill,28,"5'10""",Domestic,USA
+28,Defender,Center Back,Yeimar,Gomez Andrade,Yeimar Gomez Andrade,29,"6'3""",International,Colombia
+30,Goalkeeper,Goalkeeper,Stefan,Cleveland,Stefan Cleveland,26,"6'4""",Domestic,USA
+45,Forward,Right Winger,Ethan,Dobbelaere,Ethan Dobbelaere,18,"5'9""",Domestic Homegrown,USA
+75,Midfielder,Center Mid,Danny,Levya,Danny Levya,18,"5'10""",Domestic,USA
+84,Midfielder,Center Mid,Joshua,Atencio,Joshua Atencio,18,"6'0""",Domestic Homegrown,USA
+92,Defender,Left Back,Abdoulaye,Cissoko,Abdoulaye Cissoko,21,"6'2""",International,France
+94,Midfielder,Left Mid,Jimmy,Medranda,Jimmy Medranda,27,"5'5""",International,Colombia
+19,Forward,Left Winger,Lamar,Neagle,Lamar Neagle,34,"5'10""",Domestic,USA
